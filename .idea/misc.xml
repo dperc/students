@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/classes" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../../RGS/RGS-app" value="1470658495000" />
+        <entry key="$PROJECT_DIR$/../../RGS/play-authenticate-mongo" value="1473768907000" />
+        <entry key="$PROJECT_DIR$/../../RGS/play-java" value="1470733513000" />
+        <entry key="$PROJECT_DIR$/../../random/play-authenticate-master/code" value="1460589642000" />
+        <entry key="$PROJECT_DIR$/../../random/play-authenticate-master/samples/java/play-authenticate-simple-oauth" value="1460589642000" />
+        <entry key="$PROJECT_DIR$/../../rgs-lbs/code/web/rgs-admin" value="1467878835000" />
+        <entry key="$PROJECT_DIR$/../../rgs-lbs/code/web/rgs-toolbox" value="1474142216000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+</project>
